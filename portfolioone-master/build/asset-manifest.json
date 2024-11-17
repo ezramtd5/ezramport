@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ezraport/static/css/main.37e7f59c.css",
+    "main.js": "/ezraport/static/js/main.4ca4e051.js",
+    "static/media/projectTwo.jpg": "/ezraport/static/media/projectTwo.c9bbafc1bd3accdd275f.jpg",
+    "static/media/bannerImg.png": "/ezraport/static/media/bannerImg.5a88926207fbc6a45209.png",
+    "static/media/projectFive.jpg": "/ezraport/static/media/projectFive.dc6ef8afdc4d4a81d82c.jpg",
+    "static/media/pm.png": "/ezraport/static/media/pm.1fd10bb0590284b725e9.png",
+    "static/media/quote1.jpg": "/ezraport/static/media/quote1.cf9b8b2db63c5d143c0b.jpg",
+    "static/media/projectFour.jpg": "/ezraport/static/media/projectFour.d46355df1d84e3ea3f11.jpg",
+    "static/media/projectOne.jpg": "/ezraport/static/media/projectOne.2a20ff45a264f6a428fa.jpg",
+    "static/media/kuku.JPG": "/ezraport/static/media/kuku.5d0a5ecf7f4d84919550.JPG",
+    "static/media/contactImg.png": "/ezraport/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/Nopic.jpg": "/ezraport/static/media/Nopic.8c49172c2ca4362deb3c.jpg",
+    "static/media/Eva.png": "/ezraport/static/media/Eva.ca5e6401f309381e067a.png",
+    "static/media/testimonialTwo.png": "/ezraport/static/media/testimonialTwo.c6df2773c486964035d9.png",
+    "index.html": "/ezraport/index.html",
+    "main.37e7f59c.css.map": "/ezraport/static/css/main.37e7f59c.css.map",
+    "main.4ca4e051.js.map": "/ezraport/static/js/main.4ca4e051.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37e7f59c.css",
+    "static/js/main.4ca4e051.js"
+  ]
+}
